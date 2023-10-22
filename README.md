@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center">Hello, I am Alejandro Navarro Bonilla 👋</h1>
+<h1 align="center">Hello, I am nvbale 👋</h1>
 </div>
+<img src="https://i.imgur.com/OLymJB3.png">
 
 ## About me
 
