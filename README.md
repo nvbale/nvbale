@@ -5,7 +5,8 @@
 
 ## About me
 
-- 💻 Full Stack Developer
+- 💻 Front end developer
+- 💻 Back end developer
 <br>
 
 ## Projects
