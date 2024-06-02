@@ -5,8 +5,8 @@
 
 ## About me
 
-- 💻 Front end developer
-- 💻 Back end developer
+- 💻 Front-end developer
+- 💻 Back-end developer
 <br>
 
 ## Projects
