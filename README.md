@@ -27,8 +27,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🪑 Muebles San Francisco JYN S.A.](https://muebles-jyn.vercel.app/) | Sitio web de catálogo visual para mostrar muebles por categorías como salas, cocinas, dormitorios, entre otros. Diseñado para una experiencia de navegación simple y estética. | React, Next, CSS, Vite |
 | [🔗 Portfolio Website](https://nvbale.com) | Personal portfolio showcasing my work | React, Tailwind, Vercel |
-| [🔗 API Boilerplate](https://github.com/yourusername/api-boilerplate) | Starter template for REST APIs | Node.js, Express, MongoDB |
 
 ---
 
@@ -50,7 +50,7 @@
   <a href="mailto:nvbalek@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://nvbale.com">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
