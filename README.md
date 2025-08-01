@@ -1,16 +1,56 @@
 <div align="center">
-<h1 align="center">Hi, I'm Alejandro 👋</h1>
+  <h1>Hi, I'm Alejandro Navarro👋</h1>
+  <p>Systems Engineer</p>
 </div>
-<img src="https://i.imgur.com/OLymJB3.png">
 
-## About me
+---
 
-- 💻 Front-end developer
-- 💻 Back-end developer
-<br>
+## 🚀 About Me
 
-## Projects
-<br>
+- 🧑‍💻 Full Stack Developer (Front-end & Back-end)
+- ⚡ Currently learning **TypeScript**, **Next.js**, and **DevOps**
+- 🎯 Passionate about clean code, performance, and great UI/UX
+- 🛠️ I enjoy building scalable and maintainable web applications
+- 💬 Ask me about React, Node.js, or anything web-related!
 
-## Stack
+---
 
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,postgres,mongodb,git,github,vscode,vercel,docker,aws,azure" />
+</div>
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔗 Portfolio Website](https://nvbale.com) | Personal portfolio showcasing my work | React, Tailwind, Vercel |
+| [🔗 API Boilerplate](https://github.com/yourusername/api-boilerplate) | Starter template for REST APIs | Node.js, Express, MongoDB |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nvbale&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvbale&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🧭 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nvbale/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nvbalek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
